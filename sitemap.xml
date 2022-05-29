@@ -4,11 +4,15 @@
   
   
   <url>
-    <loc>https://blakebowen.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://blakebowen.github.io/</loc><lastmod>2022-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://blakebowen.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://blakebowen.github.io/project/</loc><lastmod>2022-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://blakebowen.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://blakebowen.github.io/tag/single-cell-genomics/</loc><lastmod>2022-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://blakebowen.github.io/project/single_cell_phaeo/</loc><lastmod>2022-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://blakebowen.github.io/tags/</loc><lastmod>2022-05-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -21,8 +25,6 @@
     <loc>https://blakebowen.github.io/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://blakebowen.github.io/post/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/tags/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://blakebowen.github.io/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -42,22 +44,4 @@
   <url>
     <loc>https://blakebowen.github.io/tag/regression/</loc><lastmod>2020-12-01T21:13:14-05:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://blakebowen.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://blakebowen.github.io/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://blakebowen.github.io/publication_types/</loc><changefreq>weekly</changefreq></url></urlset>
