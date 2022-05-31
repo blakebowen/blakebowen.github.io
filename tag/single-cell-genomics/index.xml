@@ -5,12 +5,34 @@
     <link>https://blakebowen.github.io/tag/single-cell-genomics/</link>
       <atom:link href="https://blakebowen.github.io/tag/single-cell-genomics/index.xml" rel="self" type="application/rss+xml" />
     <description>Single cell genomics</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://blakebowen.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>https://blakebowen.github.io/media/icon_huf734a65eb61e186a6160f443eba63751_1192_512x512_fill_lanczos_center_3.png</url>
       <title>Single cell genomics</title>
       <link>https://blakebowen.github.io/tag/single-cell-genomics/</link>
     </image>
+    
+    <item>
+      <title>Useful resources for single cell RNA-seq analysis:</title>
+      <link>https://blakebowen.github.io/post/useful-resources-for-single-cell-rna-seq-analysis/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://blakebowen.github.io/post/useful-resources-for-single-cell-rna-seq-analysis/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;I have been working on single nuclei RNA-seq and single nuclei ATAC-seq data for about the last year and a half. This is a compilation of resources I have found very helpful throughout this time. I use the (Seurat)[https://satijalab.org/seurat/index.html] single cell toolkit for my analyses so this list is slighlty biased toward resources that use either Seurat or complementary tools.&lt;/p&gt;
+&lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cellranger&lt;/a&gt; \&lt;/p&gt;
+&lt;p&gt;These tutorials cover how to use Cellranger. The Cellranger pipeline is used to process the raw 10x Genomics Chromium single-cell RNA-seq output into a gene expression matrix.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/articles/pbmc3k_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat guided clustering tutorial&lt;/a&gt; &lt;br&gt;
+For downstream analysis, the best place to start is the vignettes published by the (Satija Lab)[https://satijalab.org/], the authors of Seurat. These tutorials provide an overview of the methods and can be used as an initial analysis framework that can be modified to analyse new datasets.  \&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HBC Single cell RNA-seq data analysis workshop&lt;/a&gt; &lt;br&gt;
+This workshop made by the Harvard Chan Bioinformatics Core has freely available workshop materials. These workshops provide an in-depth overview of single cell analysis.&lt;/p&gt;
+&lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
+&lt;h1 id=&#34;packages&#34;&gt;Packages&lt;/h1&gt;
+&lt;h1 id=&#34;other-online-resources&#34;&gt;Other Online Resources&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/articles/essential_commands.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat Cheatsheet&lt;/a&gt;
+&lt;a href=&#34;https://bioconductor.org/books/release/OSCA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orchestrating single-cell analysis book (bioconductor)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>snRNA-seq atlas of pheochromocytoma and paraganglioma</title>
