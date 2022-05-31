@@ -13,23 +13,34 @@
     </image>
     
     <item>
-      <title>Useful resources for single cell RNA-seq analysis:</title>
+      <title>Useful resources for single cell RNA-seq analysis</title>
       <link>https://blakebowen.github.io/post/useful-resources-for-single-cell-rna-seq-analysis/</link>
       <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       <guid>https://blakebowen.github.io/post/useful-resources-for-single-cell-rna-seq-analysis/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;I have been working on single nuclei RNA-seq and single nuclei ATAC-seq data for about the last year and a half. This is a compilation of resources I have found very helpful throughout this time. I use the (Seurat)[https://satijalab.org/seurat/index.html] single cell toolkit for my analyses so this list is slighlty biased toward resources that use either Seurat or complementary tools.&lt;/p&gt;
+&lt;p&gt;I have been working on single nuclei RNA-seq and single nuclei ATAC-seq data for about the last year and a half. This is a compilation of resources I have found very helpful throughout this time.&lt;/p&gt;
 &lt;h1 id=&#34;tutorials&#34;&gt;Tutorials&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cellranger&lt;/a&gt; \&lt;/p&gt;
-&lt;p&gt;These tutorials cover how to use Cellranger. The Cellranger pipeline is used to process the raw 10x Genomics Chromium single-cell RNA-seq output into a gene expression matrix.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/articles/pbmc3k_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat guided clustering tutorial&lt;/a&gt; &lt;br&gt;
-For downstream analysis, the best place to start is the vignettes published by the (Satija Lab)[https://satijalab.org/], the authors of Seurat. These tutorials provide an overview of the methods and can be used as an initial analysis framework that can be modified to analyse new datasets.  \&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HBC Single cell RNA-seq data analysis workshop&lt;/a&gt; &lt;br&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/using/tutorial_ov&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cellranger&lt;/a&gt;&lt;br&gt;
+The Cellranger pipeline is used to process raw 10x Genomics Chromium single-cell RNA-seq output into a gene expression matrix.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/articles/pbmc3k_tutorial.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat guided clustering tutorial&lt;/a&gt;&lt;br&gt;
+For downstream analysis, the best place to start is the vignettes published by the &lt;a href=&#34;https://satijalab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Satija Lab&lt;/a&gt;, the authors of Seurat. These tutorials provide an overview of the methods and can be used as an initial analysis framework that can be modified to analyse new datasets.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://hbctraining.github.io/scRNA-seq_online/schedule/links-to-lessons.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HBC Single cell RNA-seq data analysis workshop&lt;/a&gt;&lt;br&gt;
 This workshop made by the Harvard Chan Bioinformatics Core has freely available workshop materials. These workshops provide an in-depth overview of single cell analysis.&lt;/p&gt;
-&lt;h1 id=&#34;papers&#34;&gt;Papers&lt;/h1&gt;
-&lt;h1 id=&#34;packages&#34;&gt;Packages&lt;/h1&gt;
+&lt;h1 id=&#34;reviews&#34;&gt;Reviews&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.nature.com/articles/s41596-020-00409-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tutorial: guidelines for the computational analysis of single-cell RNA sequencing data&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s12276-018-0071-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Single-cell RNA sequencing technologies and bioinformatics pipelines&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.embopress.org/doi/full/10.15252/msb.20188746&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Current best practices in single-cell RNA-seq analysis: a tutorial&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0092867419305598&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Comprehensive Integration of Single-Cell Data&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.science.org/doi/10.1126/science.1254257?url_ver=Z39.88-2003&amp;amp;rfr_id=ori:rid:crossref.org&amp;amp;rfr_dat=cr_pub%20%200pubmed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Single-cell RNA-seq highlights intratumoral heterogeneity in primary glioblastoma&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://www.science.org/doi/10.1126/science.aad0501&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dissecting the multicellular ecosystem of metastatic melanoma by single-cell RNA-seq&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;software&#34;&gt;Software&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cellranger&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://satijalab.org/seurat/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://satijalab.org/signac/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Signac&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/broadinstitute/infercnv&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;InferCNV&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;other-online-resources&#34;&gt;Other Online Resources&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/articles/essential_commands.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat Cheatsheet&lt;/a&gt;
+&lt;p&gt;&lt;a href=&#34;https://satijalab.org/seurat/articles/essential_commands.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Seurat Cheatsheet&lt;/a&gt;&lt;br&gt;
 &lt;a href=&#34;https://bioconductor.org/books/release/OSCA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Orchestrating single-cell analysis book (bioconductor)&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
